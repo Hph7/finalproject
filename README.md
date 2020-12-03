@@ -22,3 +22,5 @@ Since the data was severely imbalanced in personality type, identifying all the 
 We then tried calculating the accuracy for each category to compare if our model would be able to accurately predict if a post is Intuitive or Sensing, Feeling or Thinking, Judging or Perceiving. We later found out that the Neural Network model was best able to predict scores in all categories with the most accurate being in Intuition – Sensing and a close second being Introversion – Extroversion.
 
 Finally, we visualized the results in Tableau and designed a webpage for the users to interact with and hosted it through Heroku.
+
+Here is the link https://myers-briggs-ml.herokuapp.com/
